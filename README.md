@@ -14,11 +14,11 @@ Implementación y comparación de algoritmos de ordenamiento paralelos:
 
 ## Compilación
 
-make
+    make
 
 ## Ejecución
 
-./prog <n> <modo> <hilos>
+    ./prog <n> <modo> <hilos>
 
 Donde:
 
